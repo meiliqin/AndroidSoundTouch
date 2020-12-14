@@ -1,0 +1,4 @@
+#Fri Nov 27 10:13:14 CST 2020
+base.0=G\:\\running_android\\2020\\SoundTouchDemo-master\\SoundTouchDemo-master\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

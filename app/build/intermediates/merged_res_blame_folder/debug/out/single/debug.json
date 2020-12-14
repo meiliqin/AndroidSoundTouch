@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "G:\\running_android\\2020\\SoundTouchDemo-master\\SoundTouchDemo-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "G:\\running_android\\2020\\SoundTouchDemo-master\\SoundTouchDemo-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\running_android\\2020\\SoundTouchDemo-master\\SoundTouchDemo-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_stop.png.flat",
+        "source": "G:\\running_android\\2020\\SoundTouchDemo-master\\SoundTouchDemo-master\\app\\src\\main\\res\\drawable\\stop.png"
+    },
+    {
+        "merged": "G:\\running_android\\2020\\SoundTouchDemo-master\\SoundTouchDemo-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "G:\\running_android\\2020\\SoundTouchDemo-master\\SoundTouchDemo-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "G:\\running_android\\2020\\SoundTouchDemo-master\\SoundTouchDemo-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_play.png.flat",
+        "source": "G:\\running_android\\2020\\SoundTouchDemo-master\\SoundTouchDemo-master\\app\\src\\main\\res\\drawable\\play.png"
+    },
+    {
+        "merged": "G:\\running_android\\2020\\SoundTouchDemo-master\\SoundTouchDemo-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_record.png.flat",
+        "source": "G:\\running_android\\2020\\SoundTouchDemo-master\\SoundTouchDemo-master\\app\\src\\main\\res\\drawable\\record.png"
+    },
+    {
+        "merged": "G:\\running_android\\2020\\SoundTouchDemo-master\\SoundTouchDemo-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "G:\\running_android\\2020\\SoundTouchDemo-master\\SoundTouchDemo-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\running_android\\2020\\SoundTouchDemo-master\\SoundTouchDemo-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main1.xml.flat",
+        "source": "G:\\running_android\\2020\\SoundTouchDemo-master\\SoundTouchDemo-master\\app\\src\\main\\res\\layout\\activity_main1.xml"
+    },
+    {
+        "merged": "G:\\running_android\\2020\\SoundTouchDemo-master\\SoundTouchDemo-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "G:\\running_android\\2020\\SoundTouchDemo-master\\SoundTouchDemo-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\running_android\\2020\\SoundTouchDemo-master\\SoundTouchDemo-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "G:\\running_android\\2020\\SoundTouchDemo-master\\SoundTouchDemo-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    }
+]

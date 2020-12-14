@@ -1,0 +1,170 @@
+-- Merging decision tree log ---
+manifest
+ADDED from G:\running_android\2020\SoundTouchDemo-master\SoundTouchDemo-master\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from G:\running_android\2020\SoundTouchDemo-master\SoundTouchDemo-master\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from G:\running_android\2020\SoundTouchDemo-master\SoundTouchDemo-master\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from G:\running_android\2020\SoundTouchDemo-master\SoundTouchDemo-master\app\src\main\AndroidManifest.xml:2:1-27:12
+MERGED from [:soundtouch_library] G:\running_android\2020\SoundTouchDemo-master\SoundTouchDemo-master\soundtouch_library\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-18:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\N3207\.gradle\caches\transforms-2\files-2.1\ff19cd21bc28a503476b6dbfb05a4f81\appcompat-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\N3207\.gradle\caches\transforms-2\files-2.1\7c0ee75032942c00fdc7f745252354e1\support-fragment-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\N3207\.gradle\caches\transforms-2\files-2.1\df03fa65453af6b89ebdf4867466b8d4\animated-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\N3207\.gradle\caches\transforms-2\files-2.1\0530ad6a7ef2a86bb166210b8bbd83d7\support-core-ui-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\N3207\.gradle\caches\transforms-2\files-2.1\bff2c34b52b9be73a5b5d2ccf5f15f2f\support-core-utils-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\N3207\.gradle\caches\transforms-2\files-2.1\e767d8b02a1339e3009dffa47c51f4e3\support-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\N3207\.gradle\caches\transforms-2\files-2.1\958441d10a57e668d7e40e13b4d28abd\loader-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\N3207\.gradle\caches\transforms-2\files-2.1\aed67c384f927cd85f88cf43f23fcb8f\viewpager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\N3207\.gradle\caches\transforms-2\files-2.1\57818aa9eb4c580ee8c254261b3c9431\coordinatorlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\N3207\.gradle\caches\transforms-2\files-2.1\ba6e1a4682dd3724d0e79b28c64be1ad\drawerlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\N3207\.gradle\caches\transforms-2\files-2.1\23cd89d0c4f6213b4dbb245dbd867735\slidingpanelayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\N3207\.gradle\caches\transforms-2\files-2.1\3bbc97478f7dd1d1adf1aec42b3b52e9\customview-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\N3207\.gradle\caches\transforms-2\files-2.1\2ca460044e588f5a135085a75223b2ad\swiperefreshlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\N3207\.gradle\caches\transforms-2\files-2.1\97d8120287e9e703a981b9bea22550f0\asynclayoutinflater-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\N3207\.gradle\caches\transforms-2\files-2.1\f8a397328201698168ace7f239d1330f\support-compat-28.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\N3207\.gradle\caches\transforms-2\files-2.1\9021044956baeb6a767293e6ff4318ed\versionedparcelable-28.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\N3207\.gradle\caches\transforms-2\files-2.1\267f46b65995c3cd682c90c14abd3a27\cursoradapter-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\N3207\.gradle\caches\transforms-2\files-2.1\de9e079fd7abd03661d7b43e15b21fad\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\N3207\.gradle\caches\transforms-2\files-2.1\06d37c06d0d458c40b60a017915bac57\documentfile-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\N3207\.gradle\caches\transforms-2\files-2.1\b1d9265b80d3a4676b75a8cd4884fd4c\localbroadcastmanager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\N3207\.gradle\caches\transforms-2\files-2.1\4d9887665f219e81bb67eece4129f644\print-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\N3207\.gradle\caches\transforms-2\files-2.1\37478451831cdc1b64bf7f4841eb6dc6\viewmodel-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\N3207\.gradle\caches\transforms-2\files-2.1\ca2248781da52b5d90c17a71e1030618\livedata-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\N3207\.gradle\caches\transforms-2\files-2.1\75aab1ca99d6a54dc56e7459aa551114\livedata-core-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\N3207\.gradle\caches\transforms-2\files-2.1\393cf15056d479ecca3d33feb70cd09f\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\N3207\.gradle\caches\transforms-2\files-2.1\82bc176643bf0466636db9c4bfb19f59\interpolator-28.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from G:\running_android\2020\SoundTouchDemo-master\SoundTouchDemo-master\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from G:\running_android\2020\SoundTouchDemo-master\SoundTouchDemo-master\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from G:\running_android\2020\SoundTouchDemo-master\SoundTouchDemo-master\app\src\main\AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from G:\running_android\2020\SoundTouchDemo-master\SoundTouchDemo-master\app\src\main\AndroidManifest.xml:3:5-33
+		INJECTED from G:\running_android\2020\SoundTouchDemo-master\SoundTouchDemo-master\app\src\main\AndroidManifest.xml
+		INJECTED from G:\running_android\2020\SoundTouchDemo-master\SoundTouchDemo-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from G:\running_android\2020\SoundTouchDemo-master\SoundTouchDemo-master\app\src\main\AndroidManifest.xml
+		ADDED from G:\running_android\2020\SoundTouchDemo-master\SoundTouchDemo-master\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from G:\running_android\2020\SoundTouchDemo-master\SoundTouchDemo-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from G:\running_android\2020\SoundTouchDemo-master\SoundTouchDemo-master\app\src\main\AndroidManifest.xml
+		ADDED from G:\running_android\2020\SoundTouchDemo-master\SoundTouchDemo-master\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from G:\running_android\2020\SoundTouchDemo-master\SoundTouchDemo-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from G:\running_android\2020\SoundTouchDemo-master\SoundTouchDemo-master\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from G:\running_android\2020\SoundTouchDemo-master\SoundTouchDemo-master\app\src\main\AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from G:\running_android\2020\SoundTouchDemo-master\SoundTouchDemo-master\app\src\main\AndroidManifest.xml:5:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from G:\running_android\2020\SoundTouchDemo-master\SoundTouchDemo-master\app\src\main\AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from G:\running_android\2020\SoundTouchDemo-master\SoundTouchDemo-master\app\src\main\AndroidManifest.xml:6:22-77
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from G:\running_android\2020\SoundTouchDemo-master\SoundTouchDemo-master\app\src\main\AndroidManifest.xml:7:5-71
+	android:name
+		ADDED from G:\running_android\2020\SoundTouchDemo-master\SoundTouchDemo-master\app\src\main\AndroidManifest.xml:7:22-68
+application
+ADDED from G:\running_android\2020\SoundTouchDemo-master\SoundTouchDemo-master\app\src\main\AndroidManifest.xml:9:5-25:19
+MERGED from [:soundtouch_library] G:\running_android\2020\SoundTouchDemo-master\SoundTouchDemo-master\soundtouch_library\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-16:19
+MERGED from [:soundtouch_library] G:\running_android\2020\SoundTouchDemo-master\SoundTouchDemo-master\soundtouch_library\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-16:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\N3207\.gradle\caches\transforms-2\files-2.1\f8a397328201698168ace7f239d1330f\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\N3207\.gradle\caches\transforms-2\files-2.1\f8a397328201698168ace7f239d1330f\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\N3207\.gradle\caches\transforms-2\files-2.1\9021044956baeb6a767293e6ff4318ed\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\N3207\.gradle\caches\transforms-2\files-2.1\9021044956baeb6a767293e6ff4318ed\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\N3207\.gradle\caches\transforms-2\files-2.1\f8a397328201698168ace7f239d1330f\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from G:\running_android\2020\SoundTouchDemo-master\SoundTouchDemo-master\app\src\main\AndroidManifest.xml:11:9-41
+	android:icon
+		ADDED from [:soundtouch_library] G:\running_android\2020\SoundTouchDemo-master\SoundTouchDemo-master\soundtouch_library\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:9-45
+	android:allowBackup
+		ADDED from G:\running_android\2020\SoundTouchDemo-master\SoundTouchDemo-master\app\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from G:\running_android\2020\SoundTouchDemo-master\SoundTouchDemo-master\app\src\main\AndroidManifest.xml:12:9-40
+activity#com.yzw.soundtouch.MainActivity
+ADDED from G:\running_android\2020\SoundTouchDemo-master\SoundTouchDemo-master\app\src\main\AndroidManifest.xml:13:9-21:20
+	android:label
+		ADDED from G:\running_android\2020\SoundTouchDemo-master\SoundTouchDemo-master\app\src\main\AndroidManifest.xml:15:13-45
+	android:name
+		ADDED from G:\running_android\2020\SoundTouchDemo-master\SoundTouchDemo-master\app\src\main\AndroidManifest.xml:14:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from G:\running_android\2020\SoundTouchDemo-master\SoundTouchDemo-master\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from G:\running_android\2020\SoundTouchDemo-master\SoundTouchDemo-master\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from G:\running_android\2020\SoundTouchDemo-master\SoundTouchDemo-master\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from G:\running_android\2020\SoundTouchDemo-master\SoundTouchDemo-master\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from G:\running_android\2020\SoundTouchDemo-master\SoundTouchDemo-master\app\src\main\AndroidManifest.xml:19:27-74
+activity#com.yzw.soundtouch.RecordActivity
+ADDED from G:\running_android\2020\SoundTouchDemo-master\SoundTouchDemo-master\app\src\main\AndroidManifest.xml:22:9-24:61
+	android:screenOrientation
+		ADDED from G:\running_android\2020\SoundTouchDemo-master\SoundTouchDemo-master\app\src\main\AndroidManifest.xml:24:13-49
+	android:name
+		ADDED from G:\running_android\2020\SoundTouchDemo-master\SoundTouchDemo-master\app\src\main\AndroidManifest.xml:23:13-43
+uses-sdk
+INJECTED from G:\running_android\2020\SoundTouchDemo-master\SoundTouchDemo-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from G:\running_android\2020\SoundTouchDemo-master\SoundTouchDemo-master\app\src\main\AndroidManifest.xml
+INJECTED from G:\running_android\2020\SoundTouchDemo-master\SoundTouchDemo-master\app\src\main\AndroidManifest.xml
+MERGED from [:soundtouch_library] G:\running_android\2020\SoundTouchDemo-master\SoundTouchDemo-master\soundtouch_library\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:soundtouch_library] G:\running_android\2020\SoundTouchDemo-master\SoundTouchDemo-master\soundtouch_library\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\N3207\.gradle\caches\transforms-2\files-2.1\ff19cd21bc28a503476b6dbfb05a4f81\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\N3207\.gradle\caches\transforms-2\files-2.1\ff19cd21bc28a503476b6dbfb05a4f81\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\N3207\.gradle\caches\transforms-2\files-2.1\7c0ee75032942c00fdc7f745252354e1\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\N3207\.gradle\caches\transforms-2\files-2.1\7c0ee75032942c00fdc7f745252354e1\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\N3207\.gradle\caches\transforms-2\files-2.1\df03fa65453af6b89ebdf4867466b8d4\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\N3207\.gradle\caches\transforms-2\files-2.1\df03fa65453af6b89ebdf4867466b8d4\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\N3207\.gradle\caches\transforms-2\files-2.1\0530ad6a7ef2a86bb166210b8bbd83d7\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\N3207\.gradle\caches\transforms-2\files-2.1\0530ad6a7ef2a86bb166210b8bbd83d7\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\N3207\.gradle\caches\transforms-2\files-2.1\bff2c34b52b9be73a5b5d2ccf5f15f2f\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\N3207\.gradle\caches\transforms-2\files-2.1\bff2c34b52b9be73a5b5d2ccf5f15f2f\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\N3207\.gradle\caches\transforms-2\files-2.1\e767d8b02a1339e3009dffa47c51f4e3\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\N3207\.gradle\caches\transforms-2\files-2.1\e767d8b02a1339e3009dffa47c51f4e3\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\N3207\.gradle\caches\transforms-2\files-2.1\958441d10a57e668d7e40e13b4d28abd\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\N3207\.gradle\caches\transforms-2\files-2.1\958441d10a57e668d7e40e13b4d28abd\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\N3207\.gradle\caches\transforms-2\files-2.1\aed67c384f927cd85f88cf43f23fcb8f\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\N3207\.gradle\caches\transforms-2\files-2.1\aed67c384f927cd85f88cf43f23fcb8f\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\N3207\.gradle\caches\transforms-2\files-2.1\57818aa9eb4c580ee8c254261b3c9431\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\N3207\.gradle\caches\transforms-2\files-2.1\57818aa9eb4c580ee8c254261b3c9431\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\N3207\.gradle\caches\transforms-2\files-2.1\ba6e1a4682dd3724d0e79b28c64be1ad\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\N3207\.gradle\caches\transforms-2\files-2.1\ba6e1a4682dd3724d0e79b28c64be1ad\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\N3207\.gradle\caches\transforms-2\files-2.1\23cd89d0c4f6213b4dbb245dbd867735\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\N3207\.gradle\caches\transforms-2\files-2.1\23cd89d0c4f6213b4dbb245dbd867735\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\N3207\.gradle\caches\transforms-2\files-2.1\3bbc97478f7dd1d1adf1aec42b3b52e9\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\N3207\.gradle\caches\transforms-2\files-2.1\3bbc97478f7dd1d1adf1aec42b3b52e9\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\N3207\.gradle\caches\transforms-2\files-2.1\2ca460044e588f5a135085a75223b2ad\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\N3207\.gradle\caches\transforms-2\files-2.1\2ca460044e588f5a135085a75223b2ad\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\N3207\.gradle\caches\transforms-2\files-2.1\97d8120287e9e703a981b9bea22550f0\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\N3207\.gradle\caches\transforms-2\files-2.1\97d8120287e9e703a981b9bea22550f0\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\N3207\.gradle\caches\transforms-2\files-2.1\f8a397328201698168ace7f239d1330f\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\N3207\.gradle\caches\transforms-2\files-2.1\f8a397328201698168ace7f239d1330f\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\N3207\.gradle\caches\transforms-2\files-2.1\9021044956baeb6a767293e6ff4318ed\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\N3207\.gradle\caches\transforms-2\files-2.1\9021044956baeb6a767293e6ff4318ed\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\N3207\.gradle\caches\transforms-2\files-2.1\267f46b65995c3cd682c90c14abd3a27\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\N3207\.gradle\caches\transforms-2\files-2.1\267f46b65995c3cd682c90c14abd3a27\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\N3207\.gradle\caches\transforms-2\files-2.1\de9e079fd7abd03661d7b43e15b21fad\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\N3207\.gradle\caches\transforms-2\files-2.1\de9e079fd7abd03661d7b43e15b21fad\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\N3207\.gradle\caches\transforms-2\files-2.1\06d37c06d0d458c40b60a017915bac57\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\N3207\.gradle\caches\transforms-2\files-2.1\06d37c06d0d458c40b60a017915bac57\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\N3207\.gradle\caches\transforms-2\files-2.1\b1d9265b80d3a4676b75a8cd4884fd4c\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\N3207\.gradle\caches\transforms-2\files-2.1\b1d9265b80d3a4676b75a8cd4884fd4c\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\N3207\.gradle\caches\transforms-2\files-2.1\4d9887665f219e81bb67eece4129f644\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\N3207\.gradle\caches\transforms-2\files-2.1\4d9887665f219e81bb67eece4129f644\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\N3207\.gradle\caches\transforms-2\files-2.1\37478451831cdc1b64bf7f4841eb6dc6\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\N3207\.gradle\caches\transforms-2\files-2.1\37478451831cdc1b64bf7f4841eb6dc6\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\N3207\.gradle\caches\transforms-2\files-2.1\ca2248781da52b5d90c17a71e1030618\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\N3207\.gradle\caches\transforms-2\files-2.1\ca2248781da52b5d90c17a71e1030618\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\N3207\.gradle\caches\transforms-2\files-2.1\75aab1ca99d6a54dc56e7459aa551114\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\N3207\.gradle\caches\transforms-2\files-2.1\75aab1ca99d6a54dc56e7459aa551114\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\N3207\.gradle\caches\transforms-2\files-2.1\393cf15056d479ecca3d33feb70cd09f\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\N3207\.gradle\caches\transforms-2\files-2.1\393cf15056d479ecca3d33feb70cd09f\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\N3207\.gradle\caches\transforms-2\files-2.1\82bc176643bf0466636db9c4bfb19f59\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\N3207\.gradle\caches\transforms-2\files-2.1\82bc176643bf0466636db9c4bfb19f59\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+INJECTED from G:\running_android\2020\SoundTouchDemo-master\SoundTouchDemo-master\app\src\main\AndroidManifest.xml
+INJECTED from G:\running_android\2020\SoundTouchDemo-master\SoundTouchDemo-master\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from G:\running_android\2020\SoundTouchDemo-master\SoundTouchDemo-master\app\src\main\AndroidManifest.xml
+		ADDED from G:\running_android\2020\SoundTouchDemo-master\SoundTouchDemo-master\app\src\main\AndroidManifest.xml
+		INJECTED from G:\running_android\2020\SoundTouchDemo-master\SoundTouchDemo-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from G:\running_android\2020\SoundTouchDemo-master\SoundTouchDemo-master\app\src\main\AndroidManifest.xml
+		ADDED from G:\running_android\2020\SoundTouchDemo-master\SoundTouchDemo-master\app\src\main\AndroidManifest.xml
+		INJECTED from G:\running_android\2020\SoundTouchDemo-master\SoundTouchDemo-master\app\src\main\AndroidManifest.xml
