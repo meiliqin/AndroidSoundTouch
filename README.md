@@ -3,6 +3,10 @@
 整理自 自https://github.com/VladimirKulyk/SoundTouch-Android.git
 原项目太老跑不动 ，后续改为cmake,不然开发体验太差
 
+![效果图](https://github.com/meiliqin/AndroidSoundTouch/blob/main/image/IMG20210128_140706.png)
+
+
+
 soundTouch的使用方法:
 
 ```java
@@ -35,11 +39,7 @@ do
 //if you stop playing, call clear on the track to clear the pipeline for later use.
 soundTouch.clearBuffer()
 ```
-
-Take a look at SoundStreamAudioPlayer.java for a ready made implementation of a time-stretching, pitch-shifting
-Runnable that streams a decoded audio file to an AudioTrack. This implementation relies on MediaCodec components and is compatible with API >= 16.
-
-To demonstrate, execute the following in your app:
+SoundStreamAudioPlayer.java 是一个支持可变速变调播放音频的播放器，基于MediaCodec做音轨解码，其使用方法如下：
 
 ```java
 //The last two parameters are speed of playback (1.0 is 100% of original speed) and pitch adjustment in semi-tones.
@@ -47,15 +47,14 @@ SoundStreamAudioPlayer player = new SoundStreamAudioPlayer(0, f.getPath(), 1.0f,
 new Thread(player).start();
 player.start();
 ````
-The track can be paused or stopped at a later time.
-stop() should always be called on a SoundStreamAudioPlayer after use to release resources. The object is no longer usable after stop() has been called.
+
+结束播放时，应调用stop释放资源：
 
 ```java
 st.pause();
 st.stop();
 ````
-There is also a ready made implementation for saving altered audio to an raw AAC encoded file with ADTS headers, which will be playable in common audio players.
-
+音频变速变调的另外一种思路是，对音频文件通过soundTouch处理后，重新编码为aac文件，任何播放器可以播放这个文件：
 ```java
 SoundStreamFileWriter writer = new SoundStreamFileWriter(0, fileNameIn, fileNameOut, tempo, pitch);
 new Thread(writer).start();
