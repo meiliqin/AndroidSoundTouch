@@ -1,11 +1,9 @@
 #SoundTouch
 ==================
-fork 自https://github.com/VladimirKulyk/SoundTouch-Android.git
-
+整理自 自https://github.com/VladimirKulyk/SoundTouch-Android.git
 原项目太老跑不动 
-
 后续改为cmake,不然开发体验太差
-
+==================
 
 
 <pre>
